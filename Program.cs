@@ -13,6 +13,7 @@ namespace Nome_da_escola
             Console.ForegroundColor = ConsoleColor.Blue;
             Console.WriteLine("============");
             Console.ForegroundColor = ConsoleColor.Gray;
+            Console.ReadKey();
 
 
         }
