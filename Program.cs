@@ -9,7 +9,7 @@ namespace Nome_da_escola
             Console.ForegroundColor = ConsoleColor.Blue;
             Console.WriteLine("============");
             Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Etec Adolpho Berezin");
             Console.ForegroundColor = ConsoleColor.Blue;
             Console.WriteLine("============");
             Console.ForegroundColor = ConsoleColor.Gray;
